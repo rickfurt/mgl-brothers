@@ -1,1 +1,1 @@
-web: Frontend/
+web: npm start
